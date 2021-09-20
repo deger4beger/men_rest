@@ -1,0 +1,7 @@
+{
+	"env": {
+		"MONGO_ATLAS_PW": "2T9-ASe-MLU-rR3",
+		"MONGO_ATLAS_DBN": "Cluster0",
+		"JWT_KEY": "secret"
+	}
+}
